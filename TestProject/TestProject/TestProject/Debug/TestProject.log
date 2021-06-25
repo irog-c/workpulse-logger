@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\VisualStudioRepos\TestProject\TestProject\TestProject\main.cpp(143,5): warning C4102: 'done': unreferenced label
+  TestProject.vcxproj -> F:\VisualStudioRepos\TestProject\TestProject\Debug\TestProject.exe
